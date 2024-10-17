@@ -22,7 +22,7 @@ const About = () => {
                 />
                 <div className="flex flex-col mt-4">
                     <h2 className="text-2xl font-bold text-white/80">Education</h2> 
-                    <p className='text-lg text-white/70 mt-2'>I am currently pursuing Bachelor's degree in Computer Science at the National University of Modern Languages.</p>
+                    <p className='text-lg text-white/70 mt-2'>I am currently pursuing Bachelors degree in Computer Science at the National University of Modern Languages.</p>
               </div>
               </div>
             </div>

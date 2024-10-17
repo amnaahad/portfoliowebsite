@@ -1,5 +1,5 @@
 "use client"
-import React, { useRef } from 'react'
+import React from 'react'
 import Image from 'next/image'
 import cursor from "../assets/icon1.png"
 import lightning from "../assets/icon2.png"
@@ -70,7 +70,7 @@ const Hero = () => {
       
         {/* Description text */}
         <p className="text-center text-xl max-w-[500px] mx-auto mt-8 text-white/80">
-          I'm a full-stack developer passionate about crafting seamless, user-centric websites that deliver exceptional experiences.
+          I am a full-stack developer passionate about crafting seamless, user-centric websites that deliver exceptional experiences.
         </p>
         
         {/* Profile picture */}
