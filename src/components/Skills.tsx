@@ -2,7 +2,7 @@ import React from 'react'
 import { motion, useAnimation } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
 import { FaHtml5, FaCss3Alt, FaReact, FaJsSquare, FaNodeJs, FaGithub } from 'react-icons/fa'
-import { SiCplusplus, SiC, SiMongodb, SiNextdotjs, SiExpress, SiMysql } from 'react-icons/si'
+import { SiCplusplus, SiMongodb, SiNextdotjs, SiExpress, SiMysql } from 'react-icons/si'
 import { DiJava } from 'react-icons/di'
 
 const skillIcons = [
